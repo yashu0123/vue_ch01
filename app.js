@@ -1,23 +1,4 @@
-// const options = {
-//     data() {
-//         return {
-//             appName : 'VueApp',
-//             cls : 'cross',
-//             counter : 4,
-//             name: "yashwant"
-//         }
-//     },
-//     methods:{
-//         increment() {
-//             if(this.counter==10)
-//                 this.counter=100;
-//             this.counter++;
-//         }
-//     }
-    
-// }
-// const app = Vue.createApp(options);
-// const vm = app.mount("#app");
+
 new Vue({
     el: '#app',
     data: {
